@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goplay/static/css/main.4ce7cb0a.chunk.css",
-    "main.js": "/goplay/static/js/main.b1c6da47.chunk.js",
-    "main.js.map": "/goplay/static/js/main.b1c6da47.chunk.js.map",
+    "main.js": "/goplay/static/js/main.e658997f.chunk.js",
+    "main.js.map": "/goplay/static/js/main.e658997f.chunk.js.map",
     "runtime-main.js": "/goplay/static/js/runtime-main.fcfed527.js",
     "runtime-main.js.map": "/goplay/static/js/runtime-main.fcfed527.js.map",
     "static/js/2.9e8dd97f.chunk.js": "/goplay/static/js/2.9e8dd97f.chunk.js",
     "static/js/2.9e8dd97f.chunk.js.map": "/goplay/static/js/2.9e8dd97f.chunk.js.map",
     "index.html": "/goplay/index.html",
-    "precache-manifest.bfb9f20c82934a424557c17924a7f92c.js": "/goplay/precache-manifest.bfb9f20c82934a424557c17924a7f92c.js",
+    "precache-manifest.6ab1167a47dd5df8ab07cb29423f8597.js": "/goplay/precache-manifest.6ab1167a47dd5df8ab07cb29423f8597.js",
     "service-worker.js": "/goplay/service-worker.js",
     "static/css/main.4ce7cb0a.chunk.css.map": "/goplay/static/css/main.4ce7cb0a.chunk.css.map",
     "static/js/2.9e8dd97f.chunk.js.LICENSE.txt": "/goplay/static/js/2.9e8dd97f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fcfed527.js",
     "static/js/2.9e8dd97f.chunk.js",
     "static/css/main.4ce7cb0a.chunk.css",
-    "static/js/main.b1c6da47.chunk.js"
+    "static/js/main.e658997f.chunk.js"
   ]
 }
