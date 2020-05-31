@@ -1,0 +1,72 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.login-body{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    max-width: 520px;
+    flex: 1 1 0%;
+    padding: 32px;
+}
+
+.login-form{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    flex: 1 1 0%;
+    padding: 28px 0px 50px;
+}
+.login-form-body{
+    width: 100%;
+    position: relative;
+    width: 100%;
+    animation: 0.5s ease 0s 1 normal none running htoyxm;
+}
+
+.login-logo{
+    display: block;
+    margin: 0px auto 32px;
+    max-width: 360px;
+    border-bottom: solid 1px rgb(40, 39, 47);
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding:24px 0;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 29px;
+}
+
+.login-form form{
+    width: 100%;
+    max-width: 360px;
+    margin: 0px auto;
+}
+
+.login-form form > div,.login-form form > div,.login-form form > button{
+    margin-bottom: 10px;
+}
+
+.login-form form > button{
+    margin-top: 10px;
+}
+
+.login-footer a{
+    color:#a4a4a4; 
+}
+
+.signup-footer{
+    margin-top: 10px;
+}
