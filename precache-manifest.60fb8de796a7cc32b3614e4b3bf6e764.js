@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa4628a89e61c98ae43e852b5ac04769",
+    "revision": "3865fcafdf5ae2cc9eb234409ee2378d",
     "url": "/goplay/index.html"
   },
   {
-    "revision": "243fbc0a8dddf026b130",
+    "revision": "0a6516f0a37c0f1072e0",
     "url": "/goplay/static/css/main.4ce7cb0a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goplay/static/js/2.9e8dd97f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "243fbc0a8dddf026b130",
-    "url": "/goplay/static/js/main.e658997f.chunk.js"
+    "revision": "0a6516f0a37c0f1072e0",
+    "url": "/goplay/static/js/main.6654c977.chunk.js"
   },
   {
     "revision": "b4030af1afcbb955e550",
